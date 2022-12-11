@@ -1,0 +1,22 @@
+.color{
+    color: orange;
+}       
+.alignment{
+    text-align: right   ;
+}
+.decoration{
+    text-decoration: underliness overline gold;
+}
+.transfrom{
+    text-transform: capitalize;
+}
+.spacing{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    line-height: 30px;
+}
+.shadow{
+    text-shadow: 26px 13px  2px rgba(8, 12, 247, 0.932);
+}

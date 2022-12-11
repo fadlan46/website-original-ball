@@ -1,0 +1,145 @@
+* {
+    padding:0;
+    margin:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+
+
+
+
+/*-------------------------------
+     Bagian Header (logo & menu) 
+--------------------------------*/
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 42px 10px 42px;
+    /* .... */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+.logo{
+    /* .... */
+    /* .... */
+    whi
+}
+
+.menu li{
+    display: inline;
+    margin:24px
+}
+
+.menu li a{
+    /* .... */
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+}
+
+
+
+
+/*---------------------
+     Bagian Gambar Hero 
+----------------------*/
+.hero{
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    margin: 36px;
+    width: auto;
+    height: 300px;
+    
+    /* .... */
+}
+
+.teks-besar{
+    position: absolute;
+    margin-left: 36px;
+    color: rgb(0, 0, 0);
+    font-size: 52px;
+}
+
+
+
+
+/*---------------------
+     Bagian Artikel 
+----------------------*/
+.artikel{
+    padding: 36px;
+    /* .... */
+}
+
+.subheading{
+    /* .... */
+    font-size: 22px;
+}
+.kotak{
+    margin: 63px 5px 0 5px;
+    padding: 40px;
+    border-radius: 8px;
+    /* .... */
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a :hover{
+    color: rgb(0, 0, 0);
+}
+
+.tanggal{
+    margin-top: 14px;
+    color: rgb(0, 0, 0);
+    font-size: small;
+    font-weight: bold;
+}
+
+
+
+
+/*---------------------
+     Bagian Quotes 
+----------------------*/
+.quotes{
+    /* .... */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.gambar-quotes{
+    width: 570px;
+    /* .... */
+}
+
+h3{
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
+/*---------------------
+     Bagian Footer 
+----------------------*/
+.footer{
+    display: flex;
+    /* .... */
+    padding: 0px 0px 18px 0px;
+}
+
+.copyright{
+    font-size: 14px;
+}
+

@@ -1,0 +1,25 @@
+.kotak{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    position: relative;
+    top: 50px;
+    left: 50x;
+}
+.kotak-2{
+    width: 500px;
+    height: 500px;
+    background-color: red
+    position: relative;
+    top: 50px;
+    left: 50px;
+    position: relative;
+    top: 50px;
+    :right: 50px;
+
+}
+    
+]
